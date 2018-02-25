@@ -11,7 +11,7 @@
 ## Usage
 1. Install the application, build, and run
 2. At the beginning, enable the permissions for GPS use and SMS read and write access.
-3. Put down the destination and choose a type of transportation
+3. Put down the destination and choose a type of transportation  
   - If you would like to start from a place other than your current location, you could overwrite the top textView
 4. Hit "GO" button
 5. It would show a list of instructions with distance information and graphical arrows, just like Google Maps

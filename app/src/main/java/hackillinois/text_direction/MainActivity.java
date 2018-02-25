@@ -240,8 +240,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
           // Filter out unnecessary SMS using their phone numbers
           //if (phone.contains(TWILIO_PHONE_NUMBER)) {
-//        if (phone.contains(AWS_SNS_PHONE_NUMBER)) {
-          if (phone.contains("12176076513")) {
+        if (phone.contains(AWS_SNS_PHONE_NUMBER)) {
             Log.d("TAG", "Twilio");
             Log.d("lastMessage: ", Boolean.toString(lastMessage));
 
