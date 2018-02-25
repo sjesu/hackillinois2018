@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   private static final int TRANS_TRAIN = 2;
   private static final int TRANS_WALKING = 3;
   private static final int ALL_PERMISSIONS = 101;
-  private static final String TWILIO_PHONE_NUMBER = "12175744278"; // temporary number
-  private static final String AWS_SNS_PHONE_NUMBER = "37083";
+  private static final String TWILIO_PHONE_NUMBER = "1XXXXXXXXXX"; // temporary number
+  private static final String AWS_SNS_PHONE_NUMBER = "XXXXX";
 
   // Different maneuver and corresponding image resource ID
   public static final Map<String, Integer> MANEUVER = new HashMap<String, Integer>() {{
